@@ -1554,3 +1554,4 @@ responsive
     margin-left: 0px;
   }
 }
+.dropdown-show:hover .dropdown-menu {display: block;}
