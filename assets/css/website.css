@@ -1555,3 +1555,52 @@ responsive
   }
 }
 .dropdown-show:hover .dropdown-menu {display: block;}
+.footer1 {
+  background: linear-gradient(
+     #03a4ed,
+     #fe3f40
+  );
+  padding: 10px;
+  text-align: center;
+  
+}
+
+.para1 {
+  margin-bottom: 10px;
+  color: #343a40; /* Text color */
+}
+
+.icon {
+  display: inline-block;
+  margin: 0 10px;
+  color: #6c757d; /* Icon color */
+}
+.icon1{
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.nahihote {
+  list-style: none;
+  padding: 0;
+}
+
+.nahihote li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.nahihote li:last-child {
+  margin-right: 0;
+}
+
+.nahihote li a {
+  color: #6c757d; /* Link color */
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.nahihote li a:hover {
+  color: #212529; /* Link hover color */
+} 
+
