@@ -1558,6 +1558,15 @@ responsive
   }
 }
 .dropdown-show:hover .dropdown-menu {display: block;}
+.dropdown-show .btn-secondary{
+  background-color: #fe3f40; 
+  border-radius: 20px;
+}
+.dropdown-show .btn-secondary:hover {
+  background-color: #03a4ed ;
+  border-radius: 20px;
+}
+
 .footer1 {
   background: linear-gradient(
      #03a4ed,
