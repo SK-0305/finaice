@@ -1267,12 +1267,12 @@ contact
 */
 
 .contact-us {
-  padding: 160px 160px;
+  padding: 160px 0px;
   background-image: url(../images/contact-bg.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  
+  margin-bottom:100px;
   
   
 }
