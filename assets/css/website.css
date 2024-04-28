@@ -1603,4 +1603,13 @@ responsive
 .nahihote li a:hover {
   color: #212529; /* Link hover color */
 } 
+.nahihote svg{
+  margin: 0;
+  height:50px;
+  padding: 5px;
+}
+.footer1 p{
+ color: black;
+ font-size: 25px;
+}
 
